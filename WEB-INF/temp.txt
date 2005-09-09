@@ -1,0 +1,1 @@
+just to get the WEB-INF folder in the cvs
