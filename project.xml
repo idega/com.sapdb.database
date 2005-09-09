@@ -2,9 +2,9 @@
 <project>
   <pomVersion>3</pomVersion>
   <extend>${base.project.dir}/base-project.xml</extend>
-  <name>Oracle Database support</name>
+  <name>SAP Database support</name>
   <groupId>bundles</groupId>
-  <artifactId>com.oracle.database</artifactId>
+  <artifactId>com.sapdb.database</artifactId>
   <currentVersion>10.1-SNAPSHOT</currentVersion>
   <organization/>
   <inceptionYear>2004</inceptionYear>
