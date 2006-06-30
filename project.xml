@@ -5,10 +5,10 @@
   <name>SAP Database support</name>
   <groupId>bundles</groupId>
   <artifactId>com.sapdb.database</artifactId>
-  <currentVersion>10.1-SNAPSHOT</currentVersion>
+  <currentVersion>7.4.4</currentVersion>
   <organization/>
   <inceptionYear>2004</inceptionYear>
-  <shortDescription>An idegaWeb bundle to support the Oracle database</shortDescription>
+  <shortDescription>An idegaWeb bundle to support the SapDB database</shortDescription>
   <versions/>
   <branches/>
   <developers>
@@ -21,17 +21,6 @@
     </developer>
   </developers>
   <dependencies>
-    <dependency>
-      <groupId>bundles</groupId>
-      <artifactId>com.idega.core</artifactId>
-      <!--<version>1.9</version>-->
-      <version>SNAPSHOT</version>
-      <type>jar</type>
-      <url>http://www.idega.com/</url>
-      <properties>
-        <eclipse.dependency>true</eclipse.dependency>
-      </properties>
-    </dependency>
     <dependency>
       <groupId>sapdbc</groupId>
       <artifactId>sapdbc</artifactId>
