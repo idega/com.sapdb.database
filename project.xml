@@ -6,7 +6,7 @@
   <name>SAP Database support</name>
   <groupId>bundles</groupId>
   <artifactId>com.sapdb.database</artifactId>
-  <currentVersion>7.4.4</currentVersion>
+  <currentVersion>7.6.0</currentVersion>
   <organization/>
   <inceptionYear>2004</inceptionYear>
   <shortDescription>An idegaWeb bundle to support the SapDB database</shortDescription>
@@ -15,6 +15,11 @@
       <id>7.4.4</id>
       <name>7.4.4</name>
       <tag>SAPDB_7_4_4</tag>
+    </version>
+    <version>
+      <id>7.6.0</id>
+      <name>7.6.0</name>
+      <tag>SAPDB_7_6_0</tag>
     </version>
   </versions>
   <branches/>
