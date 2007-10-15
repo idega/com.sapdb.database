@@ -31,7 +31,7 @@
     <dependency>
       <groupId>sapdbc</groupId>
       <artifactId>sapdbc</artifactId>
-      <version>7.4.4</version>
+      <version>7.6.0</version>
       <type>jar</type>
       <url>http://www.oracle.com/</url>
       <properties>
